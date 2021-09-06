@@ -17,6 +17,6 @@ Python and its libraries are used for data exploration. The planned action consi
 
 ### Further data processing with normalisation and plotting the data.
 
-### Developing the model.
+### Developing the model (Multivariant)
 
 ### Testing the model
